@@ -6,6 +6,10 @@
     height: 100vh;
 }
 
+body {
+    overflow: hidden;
+}
+
 .hello-box {
     background-color: pink;
     color: rgb(92, 13, 13);
