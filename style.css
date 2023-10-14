@@ -1,0 +1,15 @@
+/* Add your styles for the widget here */
+.widget-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.hello-box {
+    background-color: pink;
+    color: rgb(92, 13, 13);
+    padding: 20px;
+    border-radius: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
